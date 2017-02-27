@@ -1,0 +1,30 @@
+2017-02-27 11:28:38 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$URLConfigurationSource@16a11e4.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166118659.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:38 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$URLConfigurationSource@16a11e4.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166118659.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:38 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@a8c488: startup date [Mon Feb 27 11:28:27 CST 2017]; root of context hierarchy
+2017-02-27 11:28:38 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@a8c488: startup date [Mon Feb 27 11:28:27 CST 2017]; root of context hierarchy
+2017-02-27 11:28:38 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@a8c488: startup date [Mon Feb 27 11:28:27 CST 2017]; root of context hierarchy
+2017-02-27 11:28:39 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$URLConfigurationSource@156dbdd.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166119295.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:39 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$URLConfigurationSource@156dbdd.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166119295.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:39 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$InputStreamConfigurationSource@1f5fc7.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166119593.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:39 [main] WARN  [net.sf.ehcache.CacheManager] - Creating a new instance of CacheManager using the diskStorePath "E:\workspace_tmp\essh\ehcache\ehcache-hibernate" which is already used by an existing CacheManager.
+The source of the configuration was net.sf.ehcache.config.generator.ConfigurationSource$InputStreamConfigurationSource@1f5fc7.
+The diskStore path for this CacheManager will be set to E:\workspace_tmp\essh\ehcache\ehcache-hibernate\ehcache_auto_created_1488166119593.
+To avoid this warning consider using the CacheManager factory methods to create a singleton CacheManager or specifying a separate ehcache configuration (ehcache.xml) for each CacheManager instance.
+2017-02-27 11:28:39 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@e80317: startup date [Mon Feb 27 11:28:38 CST 2017]; root of context hierarchy
+2017-02-27 11:28:39 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@e80317: startup date [Mon Feb 27 11:28:38 CST 2017]; root of context hierarchy
+2017-02-27 11:28:39 [main] WARN  [com.eryansky.common.spring.SpringContextHolder] - SpringContextHolder中的ApplicationContext被覆盖, 原有ApplicationContext为:org.springframework.context.support.GenericApplicationContext@e80317: startup date [Mon Feb 27 11:28:38 CST 2017]; root of context hierarchy
